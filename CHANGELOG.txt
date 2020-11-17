@@ -1,0 +1,23 @@
+1-Sep-2020: CMP Extended v0.5
+- Reuploaded
+- Updated to OXCE v6.6
+- New terrains by Solarius Scorch, with maps by Civilian and Finnik:
+	- Forest
+	- Forest Swamp
+	- Forest Snow
+	- Forest Swamp Snow
+- Improved CHEMTOWN52 map, by Dioxine
+- Fixed issues with Alien Base mapScript, by efrenespartano
+- Reorganized the terrain distribution on the Globe, by efrenespartano
+- Globe data imported from ruleset to .DAT file, thanks to memmaker
+- Improved globe textures, by efrenespartano:
+	- North America has two mountain ranges: the Rockies and Sierra Madre, California and Mexico got more polygons
+	- South America has better Jungle/Rain Forest textures, Patagonia got new polys
+	- Europe has new mountain ranges: the Alps, the Carpathians, the Pyrenees, the Caucausus and the Urals
+- New custom Terror Sites, by efrenespartano and hellrazor
+- Added Big Cruise Liner Terror Site, by Solarius Scorch
+- Added Small Cruiser Liner and Cargo Ship, by hellrazor
+- Fixed issues with mapblocks on IDT SnowVillage and IDT Rice Farm, by Dioxine
+- Added special coordinates for Rice Farm, by Solarius Scorch
+- Fixed issues with Forest Swamp terrain, by Solarius Scorch
+- Fixed issues with Terror Site Industrial (missing terrains), reported by The Reaver of Darkness

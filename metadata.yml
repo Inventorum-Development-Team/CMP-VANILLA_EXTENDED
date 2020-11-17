@@ -1,0 +1,7 @@
+name: "Community Map Pack - Vanilla Extended Edition"
+version: "0.5"
+author: "CMP Admins & Contributors"
+description: "A brand new collection of maps and a new globe, created by the community for the community. Extended version for OXCE."
+id: CMPVE
+master: xcom1
+requiredExtendedVersion: "6.5.3"
