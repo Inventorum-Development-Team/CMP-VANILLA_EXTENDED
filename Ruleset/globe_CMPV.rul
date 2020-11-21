@@ -53,7 +53,7 @@ globe:
           - name: ACULTASNOW
             weight: 10
           - name: ACULTA
-            weight: 10	
+            weight: 10
           - name: IDT_FOREST
             weight: 15
           - name: IDT_SNOWFOREST
@@ -70,7 +70,7 @@ globe:
           - name: PLAINSTROP
             weight: 40
           - name: ACULTA
-            weight: 20	
+            weight: 20
           - name: IDT_VILLAGE
             weight: 30
           - name: RURAL
@@ -164,7 +164,7 @@ globe:
           - name: PLAINSSAND
             weight: 15
           - name: ACULTASAND
-            weight: 10		
+            weight: 10
     - id: 8 # Badlands/Rocky desert/Dry mountains
       terrain:
           - name: PLAINSMUDD
@@ -178,7 +178,7 @@ globe:
           - name: PLAINSSAND
             weight: 15
           - name: ACULTASAND
-            weight: 10		
+            weight: 10
     - id: 9 # Solid Ice
       terrain:
           - name: ACULTASNOW
@@ -200,7 +200,7 @@ globe:
           - name: PLAINSGRASS
             weight: 25
           - name: PLAINSROCK
-            weight: 25		
+            weight: 25
     - id: 11 # Swampland/mud
       terrain:
           - name: FOREST
@@ -208,7 +208,7 @@ globe:
           - name: JUNGLE
             weight: 15
           - name: ACULTA
-            weight: 15	
+            weight: 15
           - name: IDT_FOREST
             weight: 10
           - name: FORESTSWAMP
@@ -255,7 +255,7 @@ globe:
           - name: FOREST
             weight: 10
           - name: ACULTASNOW
-            weight: 10	
+            weight: 10
           - name: IDT_FOREST
             weight: 30
           - name: IDT_SNOWFOREST
@@ -277,7 +277,7 @@ globe:
           - name: PLAINSSAND
             weight: 15
           - name: ACULTASAND
-            weight: 10	
+            weight: 10
     - id: 21 # Temperate desert plains, medium habitation
       terrain:
           - name: PLAINSMUDD
@@ -291,7 +291,7 @@ globe:
           - name: PLAINSSAND
             weight: 15
           - name: ACULTASAND
-            weight: 10	
+            weight: 10
     - id: 22 # Rain Forest
       terrain:
           - name: MOUNTGRASS
@@ -315,7 +315,7 @@ globe:
           - name: URBAN
             weight: 20
           - name: INDUSTRIALSLUM
-            weight: 20			
+            weight: 20
     - id: 24 # Subtropical desert
       terrain:
           - name: MOUNTSAND
@@ -357,7 +357,7 @@ globe:
           - name: FORESTSWAMP_SNOW
             weight: 10
           - name: FOREST_SNOW
-            weight: 20		
+            weight: 20
           - name: PLAINSSNOW
             weight: 20
           - name: IDT_SNOWFOREST
@@ -366,31 +366,30 @@ globe:
             weight: 20
     - id: -1
       deployments: 
-        - STR_TERROR_MISSION: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION: 50
+         STR_TERROR_MISSION_AIRPORT: 50
     - id: -2
       deployments: 
-        - STR_TERROR_MISSION: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION: 100
     - id: -3
       deployments: 
-        - STR_TERROR_MISSION_INDUSTRIAL: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION_INDUSTRIAL: 90
+         STR_TERROR_MISSION_AIRPORT: 10
     - id: -4
       deployments: 
-        - STR_TERROR_MISSION_SNOW: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION_SNOW: 90
+         STR_TERROR_MISSION_AIRPORT: 10
     - id: -5
       deployments: 
-        - STR_TERROR_MISSION_RURAL: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION_RURAL: 90
+         STR_TERROR_MISSION_AIRPORT: 10
     - id: -6
       deployments: 
-        - STR_TERROR_MISSION_ISLAND: 90
-        - STR_TERROR_MISSION_AIRPORT: 10
+         STR_TERROR_MISSION_ISLAND: 90
+         STR_TERROR_MISSION_AIRPORT: 10
     - id: -7
       deployments: 
-        - STR_TERROR_MISSION_PORT: 100
+         STR_TERROR_MISSION_PORT: 100
     - id: -8
       deployments:
         STR_TERROR_MISSION_SHIPPING_LINES: 100

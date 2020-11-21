@@ -1,3 +1,9 @@
+17-Nov-2020: CMP Extended v0.6
+- Updated to OXCE v6.7.2
+- Fixed issue with missing Shipping Lanes alien terror mission, reported by Valmont and Meridian
+- Minor ruleset cleaning, by efrenespartano
+- Deleted custom BOSSBATTLE mapScript, Cydonia 2nd stage is vanilla again, by efrenespartano
+
 1-Sep-2020: CMP Extended v0.5
 - Reuploaded
 - Updated to OXCE v6.6

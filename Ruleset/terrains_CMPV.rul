@@ -1,9 +1,3 @@
-############################
-## C.M.P - TERRAINS
-## V0.3
-## Lasted Changed by efrenespartano
-## Comments: 
-###########################
 terrains:
 ####### COMMNITY MAPS BELOW #####
 
@@ -1189,7 +1183,7 @@ terrains:
         length: 20
       - name: MOUNT12 
         width: 20
-        length: 20		
+        length: 20
   - name: MOUNTROCK # by bulletdesigner
     mapDataSets:
       - BLANKS
@@ -1285,7 +1279,7 @@ terrains:
         length: 20
       - name: MOUNT12
         width: 20 
-        length: 20		
+        length: 20
   - name: PLAINS # by bulletdesigner
     mapDataSets:
       - BLANKS

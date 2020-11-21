@@ -1,9 +1,3 @@
-############################
-## C.M.P - deployments
-## V0.0.1
-## Lasted Changed by L83
-## Comments: 
-###########################
 alienDeployments:
   - delete: STR_TERROR_MISSION
 
@@ -276,6 +270,25 @@ alienDeployments:
     duration: [4, 10]
     despawnPenalty: 1000
 
+  - type: STR_TERROR_MISSION_SHIPPING_LINES
+    data: *TERROR_MISSION_ALIEN_RANKS 
+    width: 30
+    length: 70
+    height: 15
+    civilians: 16
+    terrains:
+      - CRUISE_LINER
+      - LINERSHIP
+      - CARGOSHIP
+    alert: STR_ALIENS_TERRORISE
+    alertBackground: BACK03.SCR
+    briefing:
+      palette: 2
+      music: GMENBASE
+    markerName: STR_TERROR_SITE
+    duration: [4, 10]
+    despawnPenalty: 1000
+
 ### ALIEN BASE MISSIONS ###
 #BEGIN ALIEN BASE
   - type: STR_ALIEN_BASE_ASSAULT
@@ -286,11 +299,3 @@ alienDeployments:
     script: ALIENBASE
 #END ALIEN BASE
 
-#BEGIN MARS THE FINAL ASSAULT
-  - type: STR_MARS_THE_FINAL_ASSAULT
-    width: 80
-    length: 80
-    height: 2
-    shade: 10
-    script: BOSSBATTLE
-#END MARS THE FINAL ASSAULT
