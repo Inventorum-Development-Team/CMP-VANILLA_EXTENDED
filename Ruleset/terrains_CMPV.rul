@@ -12,6 +12,9 @@ terrains:
       - PORT02_UFO
       - PORT05_UFO
       - IDT_AIRPORT_CRISTAL_WALLS
+      - MILITARY_BARRICADES
+      - MISSILES_1
+      - MISSILES_2
     mapBlocks: &AIRPORT_MAPBLOCKS
       - name: AIRBASE00
         width: 10
